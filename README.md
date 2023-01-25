@@ -5,11 +5,11 @@ My-first-repository
 
 installation of tools
 
-#DAY TWO
+# DAY TWO
 
 we will write on bioinformatics workshop
 introduction to command line
 
+# DAY THREE
+introduction to shell and github
 
-on day one we learn on installation of git bash and rstudio
-introduction  to command 
